@@ -36,15 +36,6 @@ export const songs = [
     youtubeUrl: "https://www.youtube.com/watch?v=OPf0YbXqDm0",
   },
   {
-    id: "5",
-    title: "Despacito",
-    artist: "Luis Fonsi & Daddy Yankee ft. Justin Bieber",
-    album: "Vida",
-    duration: "3:48",
-    imageUrl: "https://example.com/despacito.jpg",
-    youtubeUrl: "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
-  },
-  {
     id: "6",
     title: "Rolling in the Deep",
     artist: "Adele",
